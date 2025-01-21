@@ -45,12 +45,17 @@ spring.datasource.password=root
 ### Autenticar usuario
 ![Autenticar usuario](src\main\resources\static\img\login.png)
 
+### Crear usuario
+![Crear usuario](src\main\resources\static\img\crear-usuario.png)
+
 ### Crear tópico
 ![crear topico.png](src\main\resources\static\img\crear-topico.png)
 
 ### Listado de Tópicos
 ![Listado de Tópicos](src\main\resources\static\img\listar-topico.png)
 
+### Eliminar Tópicos
+![Eliminar Tópicos](src\main\resources\static\img\eliminar-topico.png)
 
 ## 📌 Endpoints
 
