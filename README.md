@@ -1,4 +1,4 @@
-![ForoHub API](src\main\resources\static\img\logo-foro.png)
+![ForoHub API](./src/main/resources/static/img/logo-foro.png)
 
 
 # ForoHub API
